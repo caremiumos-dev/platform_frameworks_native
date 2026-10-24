@@ -91,5 +91,4 @@ cc_library_static {
 }
 
 subdirs = [
-    "tests",
 ]

@@ -41,6 +41,7 @@ struct BatteryProperties {
     bool chargerAcOnline;
     bool chargerUsbOnline;
     bool chargerWirelessOnline;
+    bool wifiResumeDevice;
     int maxChargingCurrent;
     int maxChargingVoltage;
     int batteryStatus;

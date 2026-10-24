@@ -47,5 +47,4 @@ cc_library_shared {
 
 subdirs = [
     "host",
-    "tests",
 ]

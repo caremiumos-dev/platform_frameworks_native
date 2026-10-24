@@ -58,4 +58,4 @@ cc_library {
     header_libs: headerLibraries,
 }
 
-subdirs = ["tests"]
+

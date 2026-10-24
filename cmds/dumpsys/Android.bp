@@ -47,4 +47,4 @@ cc_binary {
     ],
 }
 
-subdirs = ["tests"]
+

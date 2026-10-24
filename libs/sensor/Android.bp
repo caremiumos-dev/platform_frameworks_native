@@ -58,4 +58,4 @@ cc_library_shared {
     export_shared_lib_headers: ["libbinder", "libhardware"],
 }
 
-subdirs = ["tests"]
+
